@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - Shop Item (https://startbootstrap.com/template-overviews/shop-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-item/blob/master/LICENSE)
+ */
+
+ body {
+ 	font-size: 20px;
+ 	font-family: 'Droid Sans', arial, serif; 
+ 	padding-top: 54px;
+ 	background-image: url("dotscircle-cool.png");
+ 	background-size: 2200px;
+
+ }
+
+
+/* body < about-body{
+ 	font-size: 20px;
+ 	font-family: 'Droid Sans', arial, serif; 
+ 	padding-top: 54px;
+ 	background-image: url("dotscircle-cool.png");
+ 	background-size: 2200px;
+ }*/
+
+
+ @media (min-width: 992px) {
+ 	body {
+ 		padding-top: 56px;
+ 	}
+ }
+
+ .card-body {
+ 	background-color: hsla(285, 91%, 55%, 0.84);
+
+ }
+
+ .list-group-item {
+ 	font-family: 'ABeeZee', sans-serif;
+
+ }
+
+
+
+.row-products-7{
+	
+
+}
+ #toon-up
+ {
+ 	background-color: purple;
+ }
+
+ #trap
+ {
+ 	background-color: yellow;
+ }
+
+ #lure
+ {
+ 	background-color: green;
+ }
+
+ #throw
+ {
+ 	background-color: orange;
+ }
+
+ #squirt
+ {
+ 	background-color: blue;
+ }
+
+ #drop{
+ 	background-color: lightblue;
+ }
+ 
+ #flippy-header{
+ 	font-family: syncopate, sans-serif; 
+ 	background-color: rgba(255, 0, 0, 0.86)!important; }
+
+/* header{
+ 	font-family: 'Alegreya SC', serif;
+
+ }*/
+.bg-dark {
+    background-color: rgba(255, 0, 0, 0.86)!important;
+}
+#about-body{
+    background-color: rgba(255, 0, 0, 0.86)!important;
+}
+div-row{
+	background-color: rgba(255, 0, 0, 0.86)!important;
+}
